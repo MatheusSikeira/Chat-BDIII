@@ -1,2 +1,2 @@
-# Chat-BDIII
-Uma aplicação web de chat com o mongoDB.
+# chat-bd3-aula-2025-2
+Uma aplicação de chat simples com uso do mongodb.
